@@ -1,0 +1,44 @@
+body {
+    font-family: 'Times New Roman', serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 600px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 5px;
+    text-align: center;
+}
+
+th {
+    background-color: hsl(0, 0%, 0%);
+    color: #fff;
+}
+
+.tong {
+    font-weight: bold;
+}
+
+.info{
+    text-align: center;
+}
+.left{
+    text-align: left;
+}

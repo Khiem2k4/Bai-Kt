@@ -1,0 +1,14 @@
+body{
+    margin: auto;
+    padding: auto;
+    display: flex;
+    justify-content: center;
+}
+img{
+    width: 350px;
+    height: 200px;
+}
+
+audio{
+    width: 100%;
+}
